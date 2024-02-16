@@ -1,1 +1,2 @@
-its it second branch file
+This is from new branch 2 
+
